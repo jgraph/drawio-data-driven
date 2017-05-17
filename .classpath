@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/jetty-6.1.1.jar"/>
+	<classpathentry kind="lib" path="jars/jetty-util-6.1.1.jar"/>
+	<classpathentry kind="lib" path="jars/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/mxgraph-core.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
