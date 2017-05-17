@@ -35,7 +35,7 @@ import com.mxgraph.view.mxGraph;
  * To use this servlet, run it on a given port and point your browser to
  * (assuming SSL is not used and assuming your browser runs on localhost):
  * 
- * http://www.draw.io/?dev=1&lightbox=1&test=1&p=update&https=0&update-interval=2000&update-url=http://localhost:8080/data
+ * http://www.draw.io/?lightbox=1&test=1&p=update&https=0&update-interval=2000&update-url=http://localhost:8080/data
  * 
  * A general demo is available here:
  * 
