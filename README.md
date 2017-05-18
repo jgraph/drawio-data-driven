@@ -1,6 +1,6 @@
 # drawio-data-driven
 
-Server-side example for creating and updating a diagram using the Java API and the data-driven plugin (via p=update).
+Server-side example for creating and updating a diagram using the Java API and the [data-driven plugin](http://www.draw.io/plugins/update.js) (via p=update).
 
 See https://github.com/jgraph/drawio-data-driven/blob/master/src/com/mxgraph/examples/DataServlet.java#L29 for documentation.
 
