@@ -143,7 +143,7 @@ public class DataServlet extends HttpServlet
 		handlers.setHandlers(new Handler[] { fileHandler, context });
 		server.setHandler(handlers);
 
-		System.out.println("Go to http://localhost:" + PORT + "/data");
+		System.out.println("Go to http://www.draw.io/?lightbox=1&test=1&p=update&https=0&update-interval=2000&update-url=http://localhost:" + PORT + "/data");
 
 		server.start();
 		server.join();
